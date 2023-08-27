@@ -8,7 +8,10 @@ genCAT_programs 配下の python プログラムは、[GenCAT リポジトリ](h
 
 ## 実行環境
 
-Google colab で import する
+Google colab で import する.
+実行する colab は[ここ](https://colab.research.google.com/drive/1wEEp3thH39jpM8DAnHfem2nhdlnX83-e#scrollTo=v7qocjNbv2vV)
+
+※ colab ファイルは一旦非公開
 
 ## その他
 
