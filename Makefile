@@ -1,4 +1,4 @@
-VENV_NAME?=sparse
+VENV_NAME?=myenv
 SOURCE=. $(VENV_NAME)/bin/activate &&
 
 
